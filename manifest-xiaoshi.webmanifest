@@ -1,0 +1,17 @@
+{
+  "name": "小屎快跑",
+  "short_name": "小屎快跑",
+  "description": "三跑道跑酷小游戏（表情包版）",
+  "lang": "zh-CN",
+  "start_url": "./xiaoshi-run.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2030",
+  "theme_color": "#12508c",
+  "icons": [
+    { "src": "icon-xs-96.png",  "sizes": "96x96",   "type": "image/png" },
+    { "src": "icon-xs-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-xs-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

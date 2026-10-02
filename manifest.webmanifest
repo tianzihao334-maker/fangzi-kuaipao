@@ -1,0 +1,17 @@
+{
+  "name": "房子快跑",
+  "short_name": "房子快跑",
+  "description": "三跑道跑酷小游戏：跳跃转体、滑铲、磁铁、光球加分",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b2030",
+  "theme_color": "#12508c",
+  "icons": [
+    { "src": "icon-96.png",  "sizes": "96x96",   "type": "image/png" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
