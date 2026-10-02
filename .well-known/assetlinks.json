@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.tianzihao334_maker.twa",
+      "sha256_cert_fingerprints": [
+        "F8:20:0F:6E:DE:43:6F:3D:9C:64:DA:DA:7B:B3:4B:95:74:4B:9C:A7:44:72:F7:BE:8B:3D:55:1A:17:E2:30:77"
+      ]
+    }
+  }
+]
